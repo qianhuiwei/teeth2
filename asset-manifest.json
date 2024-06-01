@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/teeth2/static/js/main.7b50e83c.js",
+    "main.js": "/teeth2/static/js/main.14be525d.js",
     "index.html": "/teeth2/index.html",
-    "main.7b50e83c.js.map": "/teeth2/static/js/main.7b50e83c.js.map"
+    "main.14be525d.js.map": "/teeth2/static/js/main.14be525d.js.map"
   },
   "entrypoints": [
-    "static/js/main.7b50e83c.js"
+    "static/js/main.14be525d.js"
   ]
 }
