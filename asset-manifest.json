@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/teeth2/static/css/main.f855e6bc.css",
+    "main.js": "/teeth2/static/js/main.bda64d2f.js",
+    "static/js/453.b1ac1467.chunk.js": "/teeth2/static/js/453.b1ac1467.chunk.js",
+    "static/media/logo.svg": "/teeth2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/teeth2/index.html",
+    "main.f855e6bc.css.map": "/teeth2/static/css/main.f855e6bc.css.map",
+    "main.bda64d2f.js.map": "/teeth2/static/js/main.bda64d2f.js.map",
+    "453.b1ac1467.chunk.js.map": "/teeth2/static/js/453.b1ac1467.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bda64d2f.js"
+  ]
+}
